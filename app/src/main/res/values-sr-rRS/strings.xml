@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="enter_name">Unesite svoje ime</string>
+    <string name="toppings">Dodaci</string>
+    <string name="whipped_cream">Šlag</string>
+    <string name="chocolate">Kakao</string>
+    <string name="milk">Mleko</string>
+    <string name="quantity">Količina</string>
+    <string name="order">Naruči</string>
+    <string name="sugar">Šećer</string>
+</resources>
